@@ -1,0 +1,14 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-10-12T17:07:20Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-10-12T17:07:20Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-crc-32-1.2.2-3cad35a934b8bf71f25ca524b6da51fb7eace2ff-integrity/node_modules/crc-32/.bin/crc32","time":"2024-10-12T17:07:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-crc-32-1.2.2-integrity/node_modules/crc-32/.bin/crc32","time":"2024-10-12T17:07:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-tldts-6.1.50-3b259a65bb11978a2a3d1b3c37660e542dbf9896-integrity/node_modules/tldts/.bin/tldts","time":"2024-10-12T17:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-tldts-6.1.50-integrity/node_modules/tldts/.bin/tldts","time":"2024-10-12T17:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-xlsx-0.18.5-16711b9113c848076b8a177022799ad356eba7d0-integrity/node_modules/xlsx/.bin/xlsx","time":"2024-10-12T17:07:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-xlsx-0.18.5-integrity/node_modules/xlsx/.bin/xlsx","time":"2024-10-12T17:07:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/crc32","time":"2024-10-12T17:07:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/tldts","time":"2024-10-12T17:07:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/xlsx","time":"2024-10-12T17:07:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/cfb/node_modules/.bin/crc32","time":"2024-10-12T17:07:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/tough-cookie/node_modules/.bin/tldts","time":"2024-10-12T17:07:26Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/xlsx/node_modules/.bin/crc32","time":"2024-10-12T17:07:26Z"}
